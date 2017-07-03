@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">The Guardian</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="settings_home_key">q</string>
+    <string name="settings_home_default">world</string>
+    <string name="home">home</string>
+    <string name="uk">uk</string>
+    <string-array name="uk_array">
+        <item>education</item>
+        <item>media</item>
+        <item>society</item>
+        <item>law</item>
+        <item>scotland</item>
+        <item>wales</item>
+        <item>northern</item>
+    </string-array>
+    <string name="world">world</string>
+    <string-array name="world_array">
+        <item>europe</item>
+        <item>americas</item>
+        <item>asia</item>
+        <item>australia</item>
+        <item>middle east</item>
+        <item>development</item>
+    </string-array>
+    <string name="sport">sport</string>
+    <string-array name="sport_array">
+        <item>football</item>
+        <item>tennis</item>
+        <item>racing</item>
+        <item>boxing</item>
+        <item>cricket</item>
+    </string-array>
+    <string name="lifestyle">lifestyle</string>
+    <string-array name="lifestyle_array">
+        <item>food</item>
+        <item>recipes</item>
+        <item>family</item>
+        <item>women</item>
+    </string-array>
+    <string name="money">money</string>
+    <string-array name="money_array">
+        <item>property</item>
+        <item>pensions</item>
+        <item>savings</item>
+        <item>borrowing</item>
+        <item>careers</item>
+    </string-array>
+    <string name="environment">environment</string>
+    <string-array name="environment_array">
+        <item>climate</item>
+        <item>change</item>
+        <item>wildlife</item>
+        <item>energy</item>
+        <item>pollution</item>
+    </string-array>
+    <string name="crosswords">crosswords</string>
+    <string-array name="crosswords_array">
+        <item>blog</item>
+        <item>editor</item>
+        <item>quick</item>
+        <item>prize</item>
+        <item>quiptic</item>
+        <item>genius</item>
+        <item>speedy</item>
+        <item>everyman</item>
+        <item>azed</item>
+    </string-array>
+    <string name="video">video</string>
+    <string-array name="video_array">
+        <item>podcasts</item>
+    </string-array>
+
+    <string name="date_header">Publication Date : </string>
+    <string name="type_header">Type : </string>
+    <string-array name="pref_list">
+        <item>world</item>
+        <item>uk</item>
+        <item>sport</item>
+        <item>lifestyle</item>
+        <item>money</item>
+        <item>environment</item>
+        <item>video</item>
+        <item>crosswords</item>
+    </string-array>
+</resources>
+
+
+

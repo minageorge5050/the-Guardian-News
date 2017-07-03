@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:entries="@array/pref_list"
+        android:entryValues="@array/pref_list"
+        android:key="@string/settings_home_key"
+        android:summary="select the default home"
+        android:title="Home Page"/>
+
+</PreferenceScreen>
